@@ -1,0 +1,13 @@
+*.parquet
+*.RData
+__pycache__/
+*.pyc
+.venv/
+.env
+*.pem
+*.key
+key.txt
+data/raw/
+data/interim/
+data/clean/
+data/holdout/
